@@ -1,1 +1,44 @@
 
+.mwback {
+  background-color:#2d5f7c;
+}
+
+.whitetext {
+  color:white;
+}
+
+.word {
+  font-size:50px;
+  font-family:Times;
+}
+
+.noun {
+  color:#2D5F7C;
+  font-size:25px;
+}
+
+.pronounce {
+  font-style:italic;
+  color:#2D5F7C;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.italics {
+  font-style:italic;
+}
+
+.sentence {
+  color:#2D5F7C;
+}
+
+.small {
+  font-size:13px;
+}
+
+.footer {
+  background-color:#2D5F7C;
+  color:white;
+}
